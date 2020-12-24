@@ -14,6 +14,8 @@
     "scripts": ["scripts/background.js"]
   },
   "browser_action": {
-    "default_icon": "images/ct.png"
+    "default_icon": "images/ct.png",
+    "default_popup": "single-page-app-vanilla-js-master/frontend/index.html",
+    "default_title": "shunya popup"
   }
 }
